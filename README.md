@@ -60,15 +60,15 @@ My experience spans both **product development and enterprise web environments**
 
 ## 🚀 What I'm working on
 
-I'm currently building projects focused on:
+Currently building:
 
-- Modern frontend architecture
-- Product engineering
-- Scalable and maintainable UI
-- AI-assisted development
-- Real-world software engineering practices
+- **Fracture** — developer tooling for analyzing responsive UI behavior
+- **SisiJob** — a full-stack platform for job discovery, profile matching, and application workflows
+- **Skerry** — software dependency and security analysis tooling
 
-My goal is to continue growing as a **Frontend / Product Engineer** while expanding my experience across the full software development lifecycle.
+These projects are helping me deepen my experience with frontend architecture,
+backend TypeScript, automated testing, databases, and production-oriented
+software engineering practices.
 
 ---
 
